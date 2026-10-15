@@ -1,0 +1,30 @@
+h1 {
+  color: white;
+}
+h2 {
+  color: rgb(30, 66, 134);
+  margin-top: 0px;
+  padding-top: 8px;
+}
+h3 {
+  color: rgb(30, 66, 134);
+}
+.h3-skills {
+  margin: 0px;
+}
+.exp-h3 {
+  color: black;
+  margin: 0 0 6px 0;
+  font-size: 16px;
+  padding-left: 15px;
+}
+.exp-h2 {
+  color: rgb(30, 66, 134);
+  margin-top: 0px;
+  padding-top: 8px;
+  margin-left: 10px;
+}
+.contact-h2 {
+  color: white;
+  margin-top: 20px;
+}

@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(222, 222, 228);
+}
+.lo {
+  background-color: rgb(30, 66, 134);
+  width: 50%;
+  height: 200px;
+  margin: auto;
+  border: 10px solid rgb(30, 66, 134);
+  border-radius: 24px;
+  overflow: hidden;
+  text-align: center;
+}
+.about {
+  background-color: white;
+  width: 50%;
+  height: 250px;
+  margin: auto;
+  border: 10px solid transparent;
+  border-radius: 24px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.my-skills {
+  background-color: white;
+  width: 50%;
+  height: 250px;
+  margin: auto;
+  margin-top: 20px;
+  overflow: hidden;
+  border: 10px solid transparent;
+  border-radius: 24px;
+}
+.card-container {
+  display: flex;
+}
+.skill-card {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 12px;
+  width: 180px;
+  height: auto;
+}
+.skill-card2 {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 12px;
+  width: 180px;
+  height: auto;
+  margin-left: 10px;
+}
+.skill-card3 {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 12px;
+  width: 180px;
+  height: auto;
+  margin-left: 10px;
+}
+.skill-card4 {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 12px;
+  width: 180px;
+  height: auto;
+  margin-left: 10px;
+}
+.experience {
+  background-color: white;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+  overflow: hidden;
+  border: 10px solid transparent;
+  border-radius: 24px;
+  border-left: rgb(30, 66, 134) 5px solid;
+}
+.exp-card1-icon {
+  width: 80px;
+  height: 80px;
+  background-color: #eef2f6;
+  border-radius: 8px;
+  padding: 6px;
+  margin-left: 16px;
+}
+.contact {
+  background-color: rgb(30, 66, 134);
+  width: 50%;
+  height: auto;
+  margin: auto;
+  border: 10px solid transparent;
+  border-radius: 24px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.contact-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  font: size 15px;
+  font-family: sans-serif;
+  background-color: rgb(30, 66, 134);
+}
